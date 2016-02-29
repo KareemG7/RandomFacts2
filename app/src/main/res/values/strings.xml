@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">RandomFacts</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_crazy_facts">CrazyFactsActivity</string>
+    <string name="title_activity_sports_facts">SportsFactsActivity</string>
+    <string name="title_activity_settings_fragment">SettingsFragment</string>
+    <string name="title_activity_settings">SettingsActivity</string>
+    <string name="title_activity_chrome">Chrome</string>
+</resources>
